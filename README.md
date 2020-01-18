@@ -14,4 +14,24 @@
 <img src="imagem9.png"/>
 <h1> Ordenando na tabela </h1>
 <p> Para ordenar na tabela é muito simples, primeiramente o usuário deve cadastrar todos os personalizados de sua venda, depois basta clicar nos botões de ordenamento e então prontinho, sua tabela está ordenada.</p>
-<h1>Cadastrando na tabela</h1>
+<h1> Cadastrando na tabela</h1>
+<img src="ordenar.png"/>
+<h1> Ordenando por nome </h1>
+<p> Ao clicar em ordenar por nome, o usuário vai ver sua tabela toda ordenado em ordem alfabética</p>
+<img src="ordenar1.png"/>
+<h1> Ordenando por quantidade</h1>
+<p> No caso do usuário clicar em ordenar por quantidade, ele vai ver sua tabela ordena em ordem crescente de quantidade de personalizado.</p>
+<img src="ordenar2.png"/>
+<h1> Ordenando por valor total</h1>
+<p> Por fim, caso o usuário clique em ordenar por valor, ele vai ter sua tabela ordenada por valor total dos personalizados do maior para o menor. </p>
+<img src="ordenar3.png"/>
+<h1> E caso eu queira salvar o que foi vendido ? </h1>
+<p> Para salvar e fazer o controle do que é vendido durante algum tempo, basta o usuário clicar no nome "menu" que lá ele verá a opção salvar, dessa forma, é possível o usuário salvar todas as suas vendas durante qualquer período de tempo, e fazer o balanceamente de quanto de dinheiro entrou durante esse tempo de vendas. Além disso, depois de salvar suas vendas, o usuário também pode carregar elas quando quiser, colocando todas as suas vendas de volta na tabela e para isso basta usar o "menu" onde ele verá a opção carregar. </p>
+<img src="imagem6.png"/>
+<h1> E caso eu erre na hora de cadastrar? </h1>
+<p> Caso o usuário erre algum dado digitado do seu personalizado, ele poderá editar esse item. para isso basta ele clicar na célular da tabela que ele errou, e dessa forma irá aparecer uma mensagem perguntando se o usuário quer alterar o item escolhido.</p>
+
+
+
+
+
