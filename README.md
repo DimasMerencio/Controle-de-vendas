@@ -32,6 +32,8 @@
 <p> Caso o usuário erre algum dado digitado do seu personalizado, ele poderá editar esse item, para isso basta ele clicar na célular da tabela que ele errou, e dessa forma irá aparecer uma mensagem perguntando se o usuário quer alterar o item selecionado.</p>
 <img src="editar.png"/>
 <img src="imagem5.png"/>
+<h1> Caso eu queira apagar algum personalizado da tabela?
+<p> Para apagar algum personalizado é bem simples , basta o usuário digitar o nome do personalizado que queira apagar no local indicado pela seta vermelha.<p/>
 
 
 
