@@ -5,3 +5,6 @@
 <p> Além da tela de cadastro, o projeto também possui uma tela de estatísticas, no qual o usuário pode acessar informações como, o personalizado com maior quantidade, menor, assim como o personalizado com maior valor total e também menor valor total.</p> 
 <img src="imagem2.png"/>
 <h1> Manual do usuário</h1>
+<p> Para utilizar o programa é muito fácil, basta o usuário colocar 3 valores, válidos pelo programa, dessa forma,é interessante ressaltar que o usuário não deve digitar um nome com menos de 3 letras, assim como não deve colocar valores negativos em quantidade e valor unitário, como também não pode deixar valores em branco, caso o usuário faça isso, uma mensagem de erro será mostrada, informando que os dados que o usário digitou estão inválidos.Depois de colocar os dados válidos basta clicar no botão inserir e seus valores digitados serão incluidos na tabela de dados.
+<img src="imagem0.png"/>
+<p> Caso o usuário  digite algum valor invádo a mensagem que deverá ser mostrada é "Dados inválidos" </p>
