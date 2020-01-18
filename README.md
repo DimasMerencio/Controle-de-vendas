@@ -33,7 +33,12 @@
 <img src="editar.png"/>
 <img src="imagem5.png"/>
 <h1> Caso eu queira apagar algum personalizado da tabela?
-<p> Para apagar algum personalizado é bem simples , basta o usuário digitar o nome do personalizado que queira apagar no local indicado pela seta vermelha.<p/>
+<p> Para apagar algum personalizado é bem simples , basta o usuário digitar o nome do personalizado que quer apagar no local indicado pela seta vermelha.<p/>
+<img src="excluir.png"/> 
+<p> E depois basta clicar no botão excluir personalizado, e prontinho, personalizado excluido com sucesso.</p>
+<img src="imagem7.png"/>
+<img src="imagem8.png"/>
+
 
 
 
