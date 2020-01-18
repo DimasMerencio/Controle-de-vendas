@@ -11,3 +11,7 @@
 <img src="imagem.png"/>
 <p> Além disso, é possível ver as estatísticas dos produtos cadastrados, assim como o valor total da conta.</p>
 <img src="imagem4.png"/>
+<img src="imagem9.png"/>
+<h1> Ordenando na tabela </h1>
+<p> Para ordenar na tabela é muito simples, primeiramente o usuário deve cadastrar todos os personalizados de sua venda, depois basta clicar nos botões de ordenamento e então prontinho, sua tabela está ordenada.</p>
+<h1>Cadastrando na tabela</h1>
