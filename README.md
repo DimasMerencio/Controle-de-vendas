@@ -29,8 +29,9 @@
 <p> Para salvar e fazer o controle do que é vendido durante algum tempo, basta o usuário clicar no nome "menu" que lá ele verá a opção salvar, dessa forma, é possível o usuário salvar todas as suas vendas durante qualquer período de tempo, e fazer o balanceamente de quanto de dinheiro entrou durante esse tempo de vendas. Além disso, depois de salvar suas vendas, o usuário também pode carregar elas quando quiser, colocando todas as suas vendas de volta na tabela e para isso basta usar o "menu" onde ele verá a opção carregar. </p>
 <img src="imagem6.png"/>
 <h1> E caso eu erre na hora de cadastrar? </h1>
-<p> Caso o usuário erre algum dado digitado do seu personalizado, ele poderá editar esse item. para isso basta ele clicar na célular da tabela que ele errou, e dessa forma irá aparecer uma mensagem perguntando se o usuário quer alterar o item escolhido.</p>
-
+<p> Caso o usuário erre algum dado digitado do seu personalizado, ele poderá editar esse item, para isso basta ele clicar na célular da tabela que ele errou, e dessa forma irá aparecer uma mensagem perguntando se o usuário quer alterar o item selecionado.</p>
+<img src="editar.png"/>
+<img src="imagem5.png"/>
 
 
 
